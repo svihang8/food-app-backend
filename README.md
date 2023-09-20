@@ -3,6 +3,7 @@
 Restaurant ordering application is a CRUD web application for restaurant management of customers, employees, and orders. This is the server and database of application.
 
 ## Current Deployment
+Frontend hosted on https://main.d225t7yraqy8od.amplifyapp.com/  
 Server is currently deployed, hosted on https://autumn-grass-7257.fly.dev, using Fly.io
 
 ## Getting Started
